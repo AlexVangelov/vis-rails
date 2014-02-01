@@ -1,3 +1,4 @@
 [submodule "vendor/assets/vis"]
 	path = vendor/assets/vis
 	url = https://github.com/AlexVangelov/vis.git
+	branch = filter-branch-src
