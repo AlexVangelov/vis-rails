@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Vis::Rails::VERSION
   spec.authors       = ["AlexVangelov"]
   spec.email         = ["email@data.bg"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{This gem provides Rails driver for http://visjs.org browser-based visualization library}
+  spec.summary       = %q{Using http://visjs.org visualization library with Rails}
+  spec.homepage      = "https://github.com/AlexVangelov/vis-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
