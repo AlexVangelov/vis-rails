@@ -1,6 +1,6 @@
 # Vis::Rails
 
-TODO: Write a gem description
+Add http://visjs.org visualization library to Rails assets pipeline
 
 ## Installation
 
@@ -18,7 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add to `app/assets/javascripts/application.js`:
+
+    //= require vis
+
+Add to `app/assets/stylesheets/application.css`:
+
+    *= require vis
+
+Vis.js documentation:
+
+[http://visjs.org/docs](http://visjs.org/docs)
 
 ## Contributing
 
