@@ -1,6 +1,7 @@
 //= require ../vis/module/header
 //= require moment
 //= require hammer
+//= require ../component/emitter
 
 //= require ../vis/shim
 //= require ../vis/util
