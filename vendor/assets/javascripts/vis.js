@@ -11,7 +11,7 @@
 //= require ../vis/DataView
 
 //= require ../vis/timeline/TimeStep
-//= require ../vis/timeline/Stack
+//= require ../vis/timeline/stack
 //= require ../vis/timeline/Range
 //= require ../vis/timeline/Controller
 //= require ../vis/timeline/component/Component
