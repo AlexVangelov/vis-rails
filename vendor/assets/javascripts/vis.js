@@ -5,15 +5,12 @@
 
 //= require ../vis/shim
 //= require ../vis/util
-//= require ../vis/events
-//= require ../vis/EventBus
 //= require ../vis/DataSet
 //= require ../vis/DataView
 
-//= require ../vis/timeline/TimeStep
 //= require ../vis/timeline/stack
+//= require ../vis/timeline/TimeStep
 //= require ../vis/timeline/Range
-//= require ../vis/timeline/Controller
 //= require ../vis/timeline/component/Component
 //= require ../vis/timeline/component/Panel
 //= require ../vis/timeline/component/RootPanel
@@ -23,7 +20,6 @@
 //= require_tree ../vis/timeline/component/item
 //= require ../vis/timeline/component/ItemSet
 //= require ../vis/timeline/component/Group
-//= require ../vis/timeline/component/GroupSet
 //= require ../vis/timeline/Timeline
 
 //= require ../vis/graph/dotparser
@@ -33,10 +29,7 @@
 //= require ../vis/graph/Popup
 //= require ../vis/graph/Groups
 //= require ../vis/graph/Images
-//= require ../vis/graph/SectorsMixin
-//= require ../vis/graph/ClusterMixin
-//= require ../vis/graph/SelectionMixin
-//= require ../vis/graph/NavigationMixin
+//= require_tree ../vis/graph/graphMixins
 //= require ../vis/graph/Graph
 
 //= require ../vis/module/exports
