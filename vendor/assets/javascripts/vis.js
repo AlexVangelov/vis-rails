@@ -12,13 +12,11 @@
 //= require ../vis/timeline/TimeStep
 //= require ../vis/timeline/Range
 //= require ../vis/timeline/component/Component
-//= require ../vis/timeline/component/Panel
-//= require ../vis/timeline/component/RootPanel
 //= require ../vis/timeline/component/TimeAxis
 //= require ../vis/timeline/component/CurrentTime
 //= require ../vis/timeline/component/CustomTime
-//= require_tree ../vis/timeline/component/item
 //= require ../vis/timeline/component/ItemSet
+//= require_tree ../vis/timeline/component/item
 //= require ../vis/timeline/component/Group
 //= require ../vis/timeline/Timeline
 
@@ -31,5 +29,7 @@
 //= require ../vis/graph/Images
 //= require_tree ../vis/graph/graphMixins
 //= require ../vis/graph/Graph
+
+//= require ../vis/graph3d/Graph3d
 
 //= require ../vis/module/exports
