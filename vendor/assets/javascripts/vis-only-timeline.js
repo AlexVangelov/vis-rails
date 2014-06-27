@@ -20,16 +20,4 @@
 //= require ../vis/timeline/component/Group
 //= require ../vis/timeline/Timeline
 
-//= require ../vis/graph/dotparser
-//= require ../vis/graph/shapes
-//= require ../vis/graph/Node
-//= require ../vis/graph/Edge
-//= require ../vis/graph/Popup
-//= require ../vis/graph/Groups
-//= require ../vis/graph/Images
-//= require_tree ../vis/graph/graphMixins
-//= require ../vis/graph/Graph
-
-//= require ../vis/graph3d/Graph3d
-
-//= require ../vis/module/exports
+//= require ./module/exports-only-timeline
