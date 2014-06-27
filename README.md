@@ -25,6 +25,8 @@ Add to `app/assets/javascripts/application.js`:
 Add to `app/assets/stylesheets/application.css`:
 
     *= require vis
+    
+To load only Timeline component use `vis-only-timeline` instead of `vis` for both js and css
 
 Vis.js documentation:
 
