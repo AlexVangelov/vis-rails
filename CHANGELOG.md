@@ -1,3 +1,6 @@
+## 2.0.1
+  - fixed js relative paths
+
 ## 1.0.2
   - https://github.com/almende/vis/blob/master/HISTORY.md
 
